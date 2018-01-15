@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBusinessModel", "MVCBusinessModel\MVCBusinessModel.csproj", "{ABD1A7E4-9240-49C8-969A-75600EA76055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{DFF09F20-8F14-4EE0-B93F-6788624A4BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD1A7E4-9240-49C8-969A-75600EA76055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD1A7E4-9240-49C8-969A-75600EA76055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD1A7E4-9240-49C8-969A-75600EA76055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD1A7E4-9240-49C8-969A-75600EA76055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF09F20-8F14-4EE0-B93F-6788624A4BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF09F20-8F14-4EE0-B93F-6788624A4BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF09F20-8F14-4EE0-B93F-6788624A4BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF09F20-8F14-4EE0-B93F-6788624A4BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

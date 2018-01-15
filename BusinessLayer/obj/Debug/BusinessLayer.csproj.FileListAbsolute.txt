@@ -1,0 +1,7 @@
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\bin\Debug\MySql.Data.dll
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\bin\Debug\MySql.Data.Entity.dll
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\googleProject\MVC\MVCBusinessModel\BusinessLayer\obj\Debug\BusinessLayer.pdb
